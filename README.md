@@ -47,37 +47,6 @@
 ![](https://img.shields.io/badge/GitHub_Actions-4078c0)
 ![](https://img.shields.io/badge/Swagger-73942B)
 
-<div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" title="FastAPI" alt="FastAPI" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" title="Flask" alt="Flask" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" title="SQLite" alt="SQLite" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Light.svg" title="Redis" alt="Redis" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="Nginx" alt="Nginx" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg" title="RabbitMQ" alt="RabbitMQ" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="50" height="50"/>
-</div>
-
----
-
-### 🔥 Статистика в GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikKurkov&show_icons=true&count_private=true&hide_border=true&theme=react&locale=ru&height=170" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikKurkov&layout=compact&langs_count=8&hide_border=true&theme=react&height=170" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NikKurkov&theme=react&hide_border=true&fire=DD2727&currStreakNum=F6A947&sideNums=F6A947" alt="GitHub Streak" height="170"/>
-</p>
-
 ---
 
 ### 📫 Как связаться?
@@ -88,5 +57,5 @@
 ---
 
 <p align="center">
-  <em>Спасибо, что заглянули! ⭐&nbsp;Если нашли что‑то полезное в&nbsp;моих репозиториях — не&nbsp;стесняйтесь оставить star.</em>
+  <em>Спасибо, что заглянули!</em>
 </p>
